@@ -1,6 +1,6 @@
 # Decoding photographs of the IBM 5100's Executable ROS
 
-Follow the `.ipynb` file link below for a detailed writeup and code.
+Follow the `.ipynb` file link for a detailed writeup and code.
 
 ## Licensing
 
